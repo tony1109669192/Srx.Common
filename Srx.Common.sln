@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27128.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Srx.Util", "Srx.Util\Srx.Util.csproj", "{CAC982EA-C70E-48FB-B612-27D68A323B42}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Srx.Util.Extension", "Srx.Util.Extension\Srx.Util.Extension.csproj", "{0081E74C-7D99-4A43-A577-D6E013FE5A0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Srx.Util.Offices", "Srx.Util.Offices\Srx.Util.Offices.csproj", "{BD68CE5F-6148-4F5F-A584-68BE6030D93E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{CAC982EA-C70E-48FB-B612-27D68A323B42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAC982EA-C70E-48FB-B612-27D68A323B42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAC982EA-C70E-48FB-B612-27D68A323B42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0081E74C-7D99-4A43-A577-D6E013FE5A0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0081E74C-7D99-4A43-A577-D6E013FE5A0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0081E74C-7D99-4A43-A577-D6E013FE5A0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0081E74C-7D99-4A43-A577-D6E013FE5A0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD68CE5F-6148-4F5F-A584-68BE6030D93E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD68CE5F-6148-4F5F-A584-68BE6030D93E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD68CE5F-6148-4F5F-A584-68BE6030D93E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD68CE5F-6148-4F5F-A584-68BE6030D93E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
