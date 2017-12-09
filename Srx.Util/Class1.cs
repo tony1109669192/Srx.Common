@@ -8,5 +8,7 @@ namespace Srx.Util
         {
 
         }
+        public static adde()
+        { }
     }
 }
