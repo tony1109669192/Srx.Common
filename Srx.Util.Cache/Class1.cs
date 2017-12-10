@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Srx.Util.Extension
+namespace Srx.Util.Cache
 {
     public class Class1
     {
